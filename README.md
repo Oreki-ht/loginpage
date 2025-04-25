@@ -1,6 +1,9 @@
 # loginpage
 
 A new Flutter project.
+Valid credentials for login:  
+email: test@gmail.com
+password: test123
 
 ## Getting Started
 
